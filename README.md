@@ -9,15 +9,27 @@
     />
   </p>
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremybbl&show_icons=true&locale=en&layout=compact" alt="jeremybbl" />
+  <p align="center">
+    <img 
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremybbl&show_icons=true&locale=en&layout=compact"
+      alt="jeremybbl"
+    />
   </p>
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremybbl&show_icons=true&locale=en" alt="jeremybbl" />
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=jeremybbl&show_icons=true&locale=en"
+      alt="jeremybbl"
+    />
   </p>
  
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremybbl&" alt="jeremybbl" />
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=jeremybbl&"
+      alt="jeremybbl"
+    />
   </p>
 </div>
