@@ -1,3 +1,13 @@
+<head>
+  <style type="text/css">
+    div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  </style>
+</head>
+
 <h1 align="center">Hi 👋, I'm Jérémy</h1>
 <h3 align="center">A passionate fullstack developer from Nantes, France</h3>
 <div>
@@ -9,11 +19,3 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremybbl&" alt="jeremybbl" />
 </div>
-
-<style type="text/css">
-  div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-</style>
