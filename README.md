@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jérémy</h1>
 <h3 align="center">A passionate fullstack developer from Nantes, France</h3>
 <div>
-  <p>
+  <p align="center">
     <img 
       src="https://komarev.com/ghpvc/?username=jeremybbl&label=Profile%20views&color=0e75b6&style=flat"
       alt="jeremybbl" 
-      style="align: center;"
+      align="center"
     />
   </p>
 
